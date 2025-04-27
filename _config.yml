@@ -16,17 +16,19 @@
 local: "en-US"
 title: "Formality黎丁"
 title_separator: "-"
-url: "vntortoise724.github.io"
-# baseurl: "/home"
+url: "https://vntortoise724.github.io"
+baseurl: "/home"
 repository: "vntortoise724/vntortoise724.github.io"
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# description: >- # this means to ignore newlines until "baseurl:"
+#  Write an awesome description for your new site here. You can edit this
+#  line in _config.yml. It will appear in your document head meta (for
+#  Google search results) and in your feed.xml site description.
 # twitter_username: username
 github_username: "vntortoise724"
 minimal_mistakes_skin: "contrast"
+
+words_per_minute         : 200
 search: true
 
 # Build settings
@@ -39,7 +41,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Ho_Chi_Minh # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -76,7 +78,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Facebook"
-      icon: "fas fa-fw fa-facebook"
+      icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/chanhquy247"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
@@ -93,6 +95,9 @@ footer:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/chanhquy247"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vntortoise724"
