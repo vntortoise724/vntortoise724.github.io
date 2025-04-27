@@ -35,6 +35,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _portfolio
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -87,11 +88,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-
 defaults:
   # _portfolio
   - scope:
@@ -126,3 +122,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
