@@ -1,17 +1,9 @@
 main:
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Posts"
-    url: /posts/
   - title: "Studies"
     url: /studies/
   - title: "Artworks"
     url: /artworks/
   - title: "About Me"
     url: /about/
-
-post:
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/

@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "About Me"
+custom_css:
+  - /assets/css/about-style.css
 ---
 
 <h1>LÊ ĐINH CHÁNH QUY - 黎丁正規 🐢</h1>
@@ -14,7 +16,7 @@ title: "About Me"
   
 </div>
 
-<div>
+<div class="nav">
   <h3>🈺 My works: </h3>
   <a href="#">Projects</a>
   <a href="#">Studies</a>
