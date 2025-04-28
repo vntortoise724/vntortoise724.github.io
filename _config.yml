@@ -131,10 +131,10 @@ defaults:
       layout: single
       author_profile: false
       share: true
-  # _artwork
+  # _artworks
   - scope:
       path: ""
-      type: artwork
+      type: artworks
     values:
       layout: single
       author_profile: true 
@@ -159,6 +159,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  artwork:
+  artworks:
     output: true
     permalink: /:collection/:path/
