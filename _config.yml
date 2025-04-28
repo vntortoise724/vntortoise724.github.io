@@ -45,7 +45,6 @@ timezone: Asia/Ho_Chi_Minh # https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 include:
   - _pages
-#  - _portfolio
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -132,6 +131,22 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # _artwork
+  - scope:
+      path: ""
+      type: artwork
+    values:
+      layout: single
+      author_profile: true 
+      share: true 
+# _study
+  - scope:
+      path: ""
+      type: study
+    values:
+      layout: single
+      author_profile: true 
+      share: true 
 
 category_archive:
   type: liquid
@@ -142,5 +157,8 @@ tag_archive:
 
 collections:
   portfolio:
+    output: true
+    permalink: /:collection/:path/
+  artwork:
     output: true
     permalink: /:collection/:path/
