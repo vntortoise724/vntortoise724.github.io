@@ -8,4 +8,7 @@ header:
   actions:
     - label: "<i class='fa-solid fa-briefcase'></i> Look Into It"
       url: "/portfolio/"
+  excerpt: >
+  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.27.0">Latest release v4.27.0</a></small>
 ---
