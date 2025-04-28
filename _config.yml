@@ -28,7 +28,7 @@ email:
 github_username: "vntortoise724"
 minimal_mistakes_skin: "contrast"
 
-words_per_minute         : 200
+words_per_minute: 200
 search: true
 
 # Build settings
@@ -139,7 +139,7 @@ defaults:
       layout: single
       author_profile: true 
       share: true 
-# _study
+  # _study
   - scope:
       path: ""
       type: study
