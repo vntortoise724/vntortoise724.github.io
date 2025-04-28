@@ -18,9 +18,9 @@ custom_css:
 
 <div class="nav">
   <h3>🈺 My works: </h3>
-  <a href="#">Projects</a>
-  <a href="#">Studies</a>
-  <a href="#">Artworks</a>
+  <a href="https://vntortoise724.github.io/portfolio">Projects</a>
+  <a href="https://vntortoise724.github.io/studies">Studies</a>
+  <a href="https://vntortoise724.github.io/artworks">Artworks</a>
 </div>
 
 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
