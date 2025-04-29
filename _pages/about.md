@@ -9,7 +9,8 @@ title: "About Me"
 I am intersting in studying and improving my skills of creating and developing every aspects of video game development - from design and storytelling to programming, art, and systems balancing. I want my product once published officially will provide not only a great experience from gameplay but also a wonderous ambience of visual and hearing presentation.  
 
 ## 💼 Career Objective:
-For Mobile platform, I would like to join in a team or studio where I can learn more about how to balance the ideas with the market and the resources. For PC platform, I want to join, learn and contribute great ideas and passions in not only from video game developments but also the ideas of embedding the Vietnamese cutural histories, tradition, and stories into the graphics, the sound and the experiences of the video games.  
+- **For Mobile platform:** I would like to join in a team or studio where I can learn more about how to balance the ideas with the market and the resources.
+- **For PC platform:** I want to join, learn and contribute great ideas and passions in not only from video game developments but also the ideas of embedding the Vietnamese cutural histories, tradition, and stories into the graphics, the sound and the experiences of the video games.  
 
 ## 🈺 My works:
 
