@@ -17,7 +17,6 @@ local: "en-US"
 title: "Formality黎丁"
 title_separator: "-"
 url: "https://vntortoise724.github.io"
-baseurl: "/porfolio/"
 repository: "vntortoise724/vntortoise724.github.io"
 email:
 # description: >- # this means to ignore newlines until "baseurl:"
